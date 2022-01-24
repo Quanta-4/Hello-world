@@ -1,0 +1,3 @@
+/home/rently/Documents/Hello-world/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/rently/Documents/Hello-world/cmake/build/CMakeFiles/edit_cache.dir
+/home/rently/Documents/Hello-world/cmake/build/CMakeFiles/hello.dir
